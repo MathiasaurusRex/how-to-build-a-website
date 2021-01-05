@@ -23,8 +23,13 @@ This is not a guide that will explain how to build a website using a JavaScript 
 
 ## Glossary
 A11Y - Accessibility
+
 I18N - Internationalization
+
 HTML - HyperText Markup Language
+
 CMS - Content Management System
+
 CSS - Cascading Style Sheets
+
 JS - JavaScript
