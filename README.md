@@ -5,12 +5,12 @@
 - What this isn't
 - How this guide will be structured
 - What each component article will contain:
--- Framing
--- Styling
--- Interactions
--- Data
--- Accessibility
--- Sharing
+  - Framing
+  - Styling
+  - Interactions
+  - Data
+  - Accessibility
+  - Sharing
 - Glossary
 
 ## What this is
